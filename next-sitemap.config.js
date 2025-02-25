@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "https://combater-diabetes.com.br",
+  siteUrl: "",
   generateRobotsTxt: true,
   exclude: "/*/obrigado"
 }
